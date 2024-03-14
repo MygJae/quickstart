@@ -1,0 +1,8 @@
+spring:
+  application.name: quickstart
+  output.ansi.enabled: always
+
+server.port: 8099
+
+
+
